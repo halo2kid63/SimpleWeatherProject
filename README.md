@@ -79,7 +79,7 @@ docker-compose up --build
 
 ## Troubleshooting
 
-- **API 404 on /**: Use the `/weather/{zip}/{country}` route, e.g. `http://localhost:5000/weather/90210/us`.
+- **API 404 on /**: Use the `/weather/{zip}` route, e.g. `http://localhost:5000/weather/90210`.
 - **HTTPS certificate errors**: Trust the ASP.NET Core dev certificate or use HTTP on port 5000 for development.
 
 ---
