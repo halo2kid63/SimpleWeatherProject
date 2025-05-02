@@ -13,7 +13,7 @@ A simple cross-platform Weather Dashboard built with:
 
 - Enter a U.S. ZIP code to fetch current weather
 - Proxy handles API key securely via configuration
-- Live display of temperature in °F
+- Live display of temperature in Â°F
 
 ## Prerequisites
 
@@ -25,7 +25,7 @@ A simple cross-platform Weather Dashboard built with:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/SimpleWeatherProject.git
+git clone https://github.com/halo2kid63/SimpleWeatherProject.git
 cd SimpleWeatherProject
 ```
 
@@ -86,5 +86,5 @@ docker-compose up --build
 
 ## License
 
-MIT © Huy Doan
+MIT Â© Huy Doan
 
